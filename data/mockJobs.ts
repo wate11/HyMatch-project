@@ -89,4 +89,15 @@ export const mockJobs: Job[] = [
     workDays: ['Thu', 'Fri', 'Sat', 'Sun'],
     highlights: ['Tips included', 'Free meals', 'Language practice'],
   },
+  {
+    id: '9',
+    title: 'Waiter/Waitress',
+    type: 'restaurant',
+    salary: '¥1,200–¥2,000',
+    japaneseLevel: 'N2',
+    commuteTime: '15 minutes',
+    location: 'Ebisu, Tokyo',
+    workDays: ['Thu', 'Fri', 'Sat', 'Sun'],
+    highlights: ['Tips included', 'Free meals', 'Language practice'],
+  },
 ];
